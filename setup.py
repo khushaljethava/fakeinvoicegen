@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="fakeinvoicegen",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Khushal jethava",
+    author_email="khushaljethava14@outlook.com",
     description="A package to generate fake invoices using Faker and InvoiceGenerator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/fakeinvoicegen",
+    url="https://github.com/Khushaljethava/fakeinvoicegen",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
