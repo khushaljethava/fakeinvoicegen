@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 project = 'FakeInvoiceGen'
-copyright = '2024, Your Name'
-author = 'Your Name'
+copyright = '2024, Khushal Jethava'
+author = 'Khushal Jethava'
 release = '0.1.0'
 
 extensions = [
